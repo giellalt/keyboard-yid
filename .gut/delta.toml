@@ -1,0 +1,9 @@
+template = ""
+rev_id = 24
+template_sha = "88e89a4137d3044b5754852c22d1cf0e0b56000c"
+
+[replacements]
+__LICENSE__ = "LGPLv3"
+__UND2C__ = "yi"
+__UNDEFINED__ = "Yiddish"
+__UND__ = "yid"

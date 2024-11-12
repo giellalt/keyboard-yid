@@ -1,0 +1,18 @@
+locales:
+  yi:
+    name: Yiddish Keyboards
+    description: >-
+      Mobile OS keyboards for the Yiddish language from the Divvun group
+      at UiT.
+  en:
+    name: Yiddish Keyboards
+    description: >-
+      Mobile OS keyboards for the Yiddish language from the Divvun group
+      at UiT.
+  nb:
+    name: Yiddish tastatur
+    description: Mobiltastatur for Yiddish fra Divvun-gruppa.
+author: 'The Divvun Group, UiT Norgga árktalaš universitehta'
+copyright: (c) 2017 Divvun/Giellatekno/UiT
+email: feedback@divvun.no
+organisation: UiT Norgga árktalaš universitehta
