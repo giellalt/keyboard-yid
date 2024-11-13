@@ -9,9 +9,9 @@ android:
   primary:
     layers:
       default: |
-        á š e r t y u i o p ŋ
-        a s d f g h j k l đ ŧ
-        \s{shift} ž z č c v b n m \s{backspace}
+        / פ ם ן ו ט א ר ק י
+        ף ך ל ח ו ע כ ג ד ש \ , 
+        \s{shift} ץ ת צ מ ב ס ז \s{backspace}
       shift: |
         Á Š E R T Y U I O P Ŋ
         A S D F G H J K L Đ Ŧ
@@ -732,7 +732,7 @@ transforms:
 
 keyNames:
   space: gaska
-  return: "linnjá\u00ADmolsun" # your word for "return", or use ⏎ or the string "symbol", for some or all variants
+  return: "⏎" # your word for "return", or use ⏎ or the string "symbol", for some or all variants
 #  return-alts:
 #    search: your-word-for-search  # when pressing the return key triggers a search
 #    go: your-word-for-go-or-open  # when pressing the return key goes to or opens a URL
