@@ -16,7 +16,7 @@ android:
         \u{201C} \u{201D} \u{0060} u{FB2F} u{FB2E} u{05F0} u{FB35} u{05D5}u{05BF} u{FB4E} u{FB44} u{007D} u{007B}  
         u{05E9}u{05C2} u{05E9}u{05C1} u{05D2} u{FB3B} u{05F1} u{FB1D} u{FB1F} u{FB1D} u{FB1F} u{05D9}u{05D9} u{201E} u{003A} u{0022} 
         \s{shift} u{2260} u{05D1}\u{05BF} u{05D1}\u{05BC} u{05BE} u{2013} u{2014} u{FB4A} u{003E} u{003C} u{003F}  \s{backspace}
-    tablet-600:
+  tablet-600:
     layers:
       default: |
         \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
