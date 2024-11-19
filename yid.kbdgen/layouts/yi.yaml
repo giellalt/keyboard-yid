@@ -9,23 +9,23 @@ android:
   primary:
     layers:
       default: |
-        \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
-        \u{05E9} \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
+        \u{002F}  \u{05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
+        \u{05E9}  \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
         \s{shift} \u{05D6} \u{05E1} \u{05D1} \u{05D4} \u{05E0} \u{05E6} \u{05EA} \u{05E5} \u{002E} \s{backspace}
       shift: |
-        \u{201C} \u{201D} \u{0060} \u{FB2F} \u{FB2E} \u{05F0} \u{FB35} \u{05D5}\u{05BF} \u{FB4E} \u{FB44} \u{007D} \u{007B}  
-        \u{05E9}\u{05C2} \u{05E9}\u{05C1} \u{05D2} \u{FB3B} \u{05F1} \u{FB1D} \u{FB1F} \u{FB1D} \u{FB1F} \u{05D9}\u{05D9} \u{201E} \u{003A} \u{0022} 
-        \s{shift} \u{2260} \u{05D1}\u{05BF} \u{05D1}\u{05BC} \u{05BE} \u{2013} \u{2014} \u{FB4A} \u{003E} \u{003C} \u{003F}  \s{backspace}
+        \u{201C}         \u{201D}         \u{0060}         \u{FB2F}         \u{FB2E} \u{05F0} \u{FB35} \u{05D5}\u{05BF} \u{FB4E} \u{FB44}         \u{007D} \u{007B}  
+        \u{05E9}\u{05C2} \u{05E9}\u{05C1} \u{05D2}         \u{FB3B}         \u{05F1} \u{FB1D} \u{FB1F} \u{FB1D}         \u{FB1F} \u{05D9}\u{05D9} \u{201E} \u{003A} \u{0022} 
+        \s{shift}        \u{2260}         \u{05D1}\u{05BF} \u{05D1}\u{05BC} \u{05BE} \u{2013} \u{2014} \u{FB4A}         \u{003E} \u{003C}         \u{003F}  \s{backspace}
   tablet-600:
     layers:
       default: |
-        \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
-        \u{05E9} \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
+        \u{002F}  \u{05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
+        \u{05E9}  \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
         \s{shift} \u{05D6} \u{05E1} \u{05D1} \u{05D4} \u{05E0} \u{05E6} \u{05EA} \u{05E5} \u{002E} \s{backspace}
       shift: |
-        \u{201C} \u{201D} \u{0060} \u{FB2F} \u{FB2E} \u{05F0} \u{FB35} \u{05D5}\u{05BF} \u{FB4E} u{FB44} u{007D} u{007B}  
-        \u{05E9}\u{05C2} \u{05E9}\u{05C1} \u{05D2} \u{FB3B} \u{05F1} \u{FB1D} \u{FB1F} \u{FB1D} \u{FB1F} \u{05D9}\u{05D9} \u{201E} \u{003A} \u{0022} 
-        \s{shift} \u{2260} \u{05D1}\u{05BF} \u{05D1}\u{05BC} \u{05BE} \u{2013} \u{2014} \u{FB4A} \u{003E} \u{003C} \u{003F} \s{backspace}
+        \u{201C}         \u{201D}         \u{0060}         \u{FB2F}         \u{FB2E} \u{05F0} \u{FB35} \u{05D5}\u{05BF} \u{FB4E} \u{FB44}         \u{007D} \u{007B}  
+        \u{05E9}\u{05C2} \u{05E9}\u{05C1} \u{05D2}         \u{FB3B}         \u{05F1} \u{FB1D} \u{FB1F} \u{FB1D}         \u{FB1F} \u{05D9}\u{05D9} \u{201E} \u{003A} \u{0022} 
+        \s{shift}        \u{2260}         \u{05D1}\u{05BF} \u{05D1}\u{05BC} \u{05BE} \u{2013} \u{2014} \u{FB4A}         \u{003E} \u{003C}         \u{003F}  \s{backspace}
 
 iOS:
   config:
@@ -34,13 +34,13 @@ iOS:
   primary:
     layers:
       default: |
-        \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
-        \u{05E9} \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
+        \u{002F}                       \u{05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
+        \u{05E9}                       \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
         \s{shift:1.25} \s{spacer:0.25} \u{05D6} \u{05E1} \u{05D1} \u{05D4} \u{05E0} \u{05E6} \u{05EA} \u{05E5} \u{002E} \s{spacer:0.25} \s{backspace:1.25}
       shift: |
-        \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
-        \u{05E9}\u{05C2} \u{05E9}\u{05C1} \u{05D2} \u{FB3B} \u{05F1} \u{FB1D} \u{FB1F} \u{FB1D} \u{FB1F} \u{05D9}\u{05D9} \u{201E} \u{003A} \u{0022} 
-        \s{shift:1.25} \s{spacer:0.25} \u{2260} \u{05D1}\u{05BF} \u{05D1}\u{05BC} \u{05BE} \u{2013} \u{2014} \u{FB4A} \u{003E} \u{003C} \u{003F} \s{spacer:0.25} \s{backspace:1.25}
+        \u{201C}                       \u{201D}         \u{0060}         \u{FB2F}         \u{FB2E} \u{05F0} \u{FB35} \u{05D5}\u{05BF} \u{FB4E} \u{FB44}         \u{007D} \u{007B}  
+        \u{05E9}\u{05C2}               \u{05E9}\u{05C1} \u{05D2}         \u{FB3B}         \u{05F1} \u{FB1D} \u{FB1F} \u{FB1D}         \u{FB1F} \u{05D9}\u{05D9} \u{201E} \u{003A} \u{0022} 
+        \s{shift:1.25} \s{spacer:0.25} \u{2260}         \u{05D1}\u{05BF} \u{05D1}\u{05BC} \u{05BE} \u{2013} \u{2014} \u{FB4A}         \u{003E} \u{003C}         \u{003F} \s{spacer:0.25} \s{backspace:1.25}
       symbols-1: |
         1 2 3 4 5 6 7 8 9 0
         - / : ; ( ) kr & @ "
@@ -52,13 +52,13 @@ iOS:
   iPad-9in:
     layers:
       default: |
-        \s{"`":0.75} \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B} \s{backspace:1.25}
-        \s{shift}     \u{05E9}\u{05C2} \u{05E9}\u{05C1} \u{05D2} \u{FB3B} \u{05F1} \u{FB1D} \u{FB1F} \u{FB1D} \u{FB1F} \u{05D9}\u{05D9} \u{201E} \u{003A} \u{0022} \s{shift}
-        \s{spacer:0.5} \u{05D6} \u{05E1} \u{05D1} \u{05D4} \u{05E0} \u{05E6} \u{05EA} \u{05E5} \u{002E} \s{spacer:0.5} \s{return:2}
+        \s{"`":0.75}  á š e r t y u i o p ŋ \s{backspace:1.25}
+        \s{shift}     a s d f g h j k l đ ŧ \s{shift}
+        \s{spacer:0.5}  ž z č c v b n m , . \s{spacer:0.5} \s{return:2}
       shift: |
-        \s{"@":0.75}  \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B} \s{backspace:1.25}
-        \s{shift}     \u{05E9}\u{05C2} \u{05E9}\u{05C1} \u{05D2} \u{FB3B} \u{05F1} \u{FB1D} \u{FB1F} \u{FB1D} \u{FB1F} \u{05D9}\u{05D9} \u{201E} \u{003A} \u{0022} \s{shift}
-        \s{spacer:0.5}  \u{2260} \u{05D1}\u{05BF} \u{05D1}\u{05BC} \u{05BE} \u{2013} \u{2014} \u{FB4A} \u{003E} \s{spacer:0.5} \s{return:2}
+        \s{"@":0.75}  Á Š E R T Y U I O P Ŋ \s{backspace:1.25}
+        \s{shift}     A S D F G H J K L Đ Ŧ \s{shift}
+        \s{spacer:0.5}  Ž Z Č C V B N M ! ? \s{spacer:0.5} \s{return:2}
       alt: |
         \s{"@":0.75}  1 2 3  4 5 6 7 8 9 0 å \s{backspace:1.25}
         \s{shift}     % # kr & * ( ) ' " ø æ \s{shift}
@@ -108,14 +108,14 @@ macOS:
     layers:
       default: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´
-        \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
+        \u{002F} \u{05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
         \u{05E9} \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
         \s{shift} \u{05D6} \u{05E1} \u{05D1} \u{05D4} \u{05E0} \u{05E6} \u{05EA} \u{05E5} \u{002E} \s{backspace}
       shift: |
         § ! " # $ % & / ( ) = ? `
-        \u{201C} \u{201D} \u{0060} u{FB2F} u{FB2E} u{05F0} u{FB35} u{05D5}u{05BF} u{FB4E} u{FB44} u{007D} u{007B}  
-        u{05E9}u{05C2} u{05E9}u{05C1} u{05D2} u{FB3B} u{05F1} u{FB1D} u{FB1F} u{FB1D} u{FB1F} u{05D9}u{05D9} u{201E} u{003A} u{0022} 
-        \s{shift} u{2260} u{05D1}\u{05BF} u{05D1}\u{05BC} u{05BE} u{2013} u{2014} u{FB4A} u{003E} u{003C} u{003F}  \s{backspace}
+        \u{201C} \u{201D} \u{0060} \u{FB2F} \u{FB2E} \u{05F0} \u{FB35} \u{05D5}\u{05BF} \u{FB4E} \u{FB44} \u{007D} \u{007B}  
+        \u{05E9}\u{05C2} \u{05E9}\u{05C1} \u{05D2} \u{FB3B} \u{05F1} \u{FB1D} \u{FB1F} \u{FB1D} \u{FB1F} \u{05D9}\u{05D9} \u{201E} \u{003A} \u{0022} 
+        \s{shift} \u{2260} \u{05D1}\u{05BF} \u{05D1}\u{05BC} \u{05BE} \u{2013} \u{2014} \u{FB4A} \u{003E} \u{003C} \u{003F}  \s{backspace}
       caps: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´
           Á Š E R T Y U I O P Å Ŋ
@@ -183,14 +183,14 @@ windows:
     layers:
       default: |
         | 1 2 3 4 5 6 7 8 9 0 + \
-        \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
+        \u{002F} \u{05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
         \u{05E9} \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
         \s{shift} \u{05D6} \u{05E1} \u{05D1} \u{05D4} \u{05E0} \u{05E6} \u{05EA} \u{05E5} \u{002E} \s{backspace}
       shift: |
         § ! " # ¤ % & / ( ) = ? `
-        \u{201C} \u{201D} \u{0060} u{FB2F} u{FB2E} u{05F0} u{FB35} u{05D5}u{05BF} u{FB4E} u{FB44} u{007D} u{007B}  
-        u{05E9}u{05C2} u{05E9}u{05C1} u{05D2} u{FB3B} u{05F1} u{FB1D} u{FB1F} u{FB1D} u{FB1F} u{05D9}u{05D9} u{201E} u{003A} u{0022} 
-        \s{shift} u{2260} u{05D1}\u{05BF} u{05D1}\u{05BC} u{05BE} u{2013} u{2014} u{FB4A} u{003E} u{003C} u{003F}  \s{backspace}
+        \u{201C} \u{201D} \u{0060} \u{FB2F} \u{FB2E} \u{05F0} \u{FB35} \u{05D5}\u{05BF} \u{FB4E} \u{FB44} \u{007D} \u{007B}  
+        \u{05E9}\u{05C2} \u{05E9}\u{05C1} \u{05D2} \u{FB3B} \u{05F1} \u{FB1D} \u{FB1F} \u{FB1D} \u{FB1F} \u{05D9}\u{05D9} \u{201E} \u{003A} \u{0022} 
+        \s{shift} \u{2260} \u{05D1}\u{05BF} \u{05D1}\u{05BC} \u{05BE} \u{2013} \u{2014} \u{FB4A} \u{003E} \u{003C} \u{003F}  \s{backspace}
       caps: |
         | 1 2 3 4 5 6 7 8 9 0 + \
         Á Š E R T Y U I O P Å Ŋ
@@ -219,8 +219,8 @@ windows:
 
 chromeOS:
   config:
-    locale: en
-    xkbLayout: en
+    locale: sv
+    xkbLayout: sv
   primary:
     layers:
       default: |
