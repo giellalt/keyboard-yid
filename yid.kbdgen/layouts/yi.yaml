@@ -9,23 +9,23 @@ android:
   primary:
     layers:
       default: |
-        / פ ם ן ו ט א ר ק י
-        ף ך ל ח ו ע כ ג ד ש \ , 
-        \s{shift} ץ ת צ מ ב ס ז \s{backspace}
+        \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
+        \u{05E9} \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
+        \s{shift} \u{05D6} \u{05E1} \u{05D1} \u{05D4} \u{05E0} \u{05E6} \u{05EA} \u{05E5} \u{002E} \s{backspace}
       shift: |
-        Á Š E R T Y U I O P Ŋ
-        A S D F G H J K L Đ Ŧ
-        \s{shift} Ž Z Č C V B N M \s{backspace}
-  tablet-600:
+        \u{201C} \u{201D} \u{0060} u{FB2F} u{FB2E} u{05F0} u{FB35} u{05D5}u{05BF} u{FB4E} u{FB44} u{007D} u{007B}  
+        u{05E9}u{05C2} u{05E9}u{05C1} u{05D2} u{FB3B} u{05F1} u{FB1D} u{FB1F} u{FB1D} u{FB1F} u{05D9}u{05D9} u{201E} u{003A} u{0022} 
+        \s{shift} u{2260} u{05D1}\u{05BF} u{05D1}\u{05BC} u{05BE} u{2013} u{2014} u{FB4A} u{003E} u{003C} u{003F}  \s{backspace}
+    tablet-600:
     layers:
       default: |
-        á š e r t y u i o p ŋ
-        a s d f g h j k l đ ŧ
-        \s{shift} ž z č c v b n m \s{backspace}
+        \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
+        \u{05E9} \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
+        \s{shift} \u{05D6} \u{05E1} \u{05D1} \u{05D4} \u{05E0} \u{05E6} \u{05EA} \u{05E5} \u{002E} \s{backspace}
       shift: |
-        Á Š E R T Y U I O P Ŋ
-        A S D F G H J K L Đ Ŧ
-        \s{shift} Ž Z Č C V B N M \s{backspace}
+        \u{201C} \u{201D} \u{0060} u{FB2F} u{FB2E} u{05F0} u{FB35} u{05D5}u{05BF} u{FB4E} u{FB44} u{007D} u{007B}  
+        u{05E9}u{05C2} u{05E9}u{05C1} u{05D2} u{FB3B} u{05F1} u{FB1D} u{FB1F} u{FB1D} u{FB1F} u{05D9}u{05D9} u{201E} u{003A} u{0022} 
+        \s{shift} u{2260} u{05D1}\u{05BF} u{05D1}\u{05BC} u{05BE} u{2013} u{2014} u{FB4A} u{003E} u{003C} u{003F}  \s{backspace}
 
 iOS:
   config:
@@ -108,14 +108,14 @@ macOS:
     layers:
       default: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´
-          á š e r t y u i o p å ŋ
-          a s d f g h j k l ø æ đ
-        ž z č c v b n m , . -
+        \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
+        \u{05E9} \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
+        \s{shift} \u{05D6} \u{05E1} \u{05D1} \u{05D4} \u{05E0} \u{05E6} \u{05EA} \u{05E5} \u{002E} \s{backspace}
       shift: |
         § ! " # $ % & / ( ) = ? `
-          Á Š E R T Y U I O P Å Ŋ
-          A S D F G H J K L Ø Æ Đ
-        Ž Z Č C V B N M ; : _
+        \u{201C} \u{201D} \u{0060} u{FB2F} u{FB2E} u{05F0} u{FB35} u{05D5}u{05BF} u{FB4E} u{FB44} u{007D} u{007B}  
+        u{05E9}u{05C2} u{05E9}u{05C1} u{05D2} u{FB3B} u{05F1} u{FB1D} u{FB1F} u{FB1D} u{FB1F} u{05D9}u{05D9} u{201E} u{003A} u{0022} 
+        \s{shift} u{2260} u{05D1}\u{05BF} u{05D1}\u{05BC} u{05BE} u{2013} u{2014} u{FB4A} u{003E} u{003C} u{003F}  \s{backspace}
       caps: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´
           Á Š E R T Y U I O P Å Ŋ
@@ -183,14 +183,14 @@ windows:
     layers:
       default: |
         | 1 2 3 4 5 6 7 8 9 0 + \
-        á š e r t y u i o p å ŋ
-        a s d f g h j k l ø æ đ
-        ž z č c v b n m , . -
+        \u{002F} \u{U+05D9} \u{05E7} \u{05E8} \u{05D0} \u{05D8} \u{05D5} \u{05DF} \u{05DD} \u{05E4} \u{005D} \u{005B}
+        \u{05E9} \u{05D3} \u{05D2} \u{05DB} \u{05E2} \u{05D9} \u{05D7} \u{05DC} \u{05DA} \u{05E3} \u{002C} \u{005C}
+        \s{shift} \u{05D6} \u{05E1} \u{05D1} \u{05D4} \u{05E0} \u{05E6} \u{05EA} \u{05E5} \u{002E} \s{backspace}
       shift: |
         § ! " # ¤ % & / ( ) = ? `
-        Á Š E R T Y U I O P Å Ŋ
-        A S D F G H J K L Ø Æ Đ
-        Ž Z Č C V B N M ; : _
+        \u{201C} \u{201D} \u{0060} u{FB2F} u{FB2E} u{05F0} u{FB35} u{05D5}u{05BF} u{FB4E} u{FB44} u{007D} u{007B}  
+        u{05E9}u{05C2} u{05E9}u{05C1} u{05D2} u{FB3B} u{05F1} u{FB1D} u{FB1F} u{FB1D} u{FB1F} u{05D9}u{05D9} u{201E} u{003A} u{0022} 
+        \s{shift} u{2260} u{05D1}\u{05BF} u{05D1}\u{05BC} u{05BE} u{2013} u{2014} u{FB4A} u{003E} u{003C} u{003F}  \s{backspace}
       caps: |
         | 1 2 3 4 5 6 7 8 9 0 + \
         Á Š E R T Y U I O P Å Ŋ
