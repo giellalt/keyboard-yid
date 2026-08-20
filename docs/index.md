@@ -2,7 +2,7 @@
 
 ## Layouts
 
--   [Layout overview](layout.md)
+- [Layout overview](layout.md)
 
 ## Other information
 
