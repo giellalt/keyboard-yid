@@ -10,15 +10,15 @@ android:
   primary:
     layers:
       default: |
-        \u{05BE} 1 2 3 4 5 6 7 8 9 0 + ´
-        \u{05D0} \u{05E9} \u{05F2} \u{05E8} \u{05D8} \u{FB1F} \u{05F1} \u{05D9} \u{05D5} \u{FB44} \u{FB2F} ¨
-        \u{FB2E} \u{05E1} \u{05D3} \u{FB4E} \u{05D2} \u{05D4} \u{05D9} \u{05E7} \u{05DC} \u{05EA} \u{05E2} '
-        < \u{05D6} \u{05DB} \u{05E6} \u{05F0} \u{05D1} \u{05E0} \u{05DE} , . -
+        ־ 1 2 3 4 5 6 7 8 9 0 + ´
+        א ש ײ ר ט ײַ ױ י ו פּ אָ ¨
+        אַ ס ד פֿ ג ה י ק ל ת ע '
+        < ז כ צ װ ב נ מ , . -
       shift: |
-        ½ ! " # ¤ % & / ( ) = ? \u{05F4}
-        \u{05BC} \u{FB2A} \u{05B5} R \u{FB4A} Y \u{FB4B} \u{FB1D} \u{FB35} \u{05E4} \u{05B8} ^
-        \u{05B7} \u{FB2B} \u{05BC} \u{05E3} G \u{05D7} J \u{FB3B} L \u{05B0} \u{05B6} *
-        > Z \u{05DA} \u{05E5} \u{FB4C} \u{FB31} \u{05DF} \u{05DD} ; : \u{05BE}
+        ½ ! " # ¤ % & / ( ) = ? ״
+        ּ שׁ ֵ R תּ Y וֹ יִ וּ פ ָ ^
+        ַ שׂ ּ ף G ח J כּ L ְ ֶ *
+        > Z ך ץ בֿ בּ ן ם ; : ־
   tablet-600:
     layers:
       default: |
@@ -36,13 +36,13 @@ iOS:
   primary:
     layers:
       default: |
-        \u{05D0} \u{05E9} \u{05F2} \u{05E8} \u{05D8} \u{FB1F} \u{05F1} \u{05D9} \u{05D5} \u{FB44} \u{FB2F} ¨
-        \u{FB2E} \u{05E1} \u{05D3} \u{FB4E} \u{05D2} \u{05D4} \u{05D9} \u{05E7} \u{05DC} \u{05EA} \u{05E2} '
-        \s{shift:1.25} \s{spacer:0.25} \u{05D6} \u{05DB} \u{05E6} \u{05F0} \u{05D1} \u{05E0} \u{05DE} . \s{spacer:0.25} \s{backspace:1.25}
+        א ש ײ ר ט ײַ ױ י ו פּ אָ ¨
+        אַ ס ד פֿ ג ה י ק ל ת ע '
+        \s{shift:1.25} \s{spacer:0.25} ז כ צ װ ב נ מ . \s{spacer:0.25} \s{backspace:1.25}
       shift: |
-        \u{05BC} \u{FB2A} \u{05B5} R \u{FB4A} Y \u{FB4B} \u{FB1D} \u{FB35} \u{05E4} \u{05B8} 
-        \u{05B7} \u{FB2B} \u{05BC} \u{05E3} G \u{05D7} J \u{FB3B} L \u{05B0} \u{05B6}
-        \s{shift:1.25} \s{spacer:0.25} Z \u{05DA} \u{05E5} \u{FB4C} \u{FB31} \u{05DF} \u{05DD} . \s{spacer:0.25} \s{backspace:1.25}
+        ּ שׁ ֵ R תּ Y וֹ יִ וּ פ ָ
+        ַ שׂ ּ ף G ח J כּ L ְ ֶ
+        \s{shift:1.25} \s{spacer:0.25} Z ך ץ בֿ בּ ן ם . \s{spacer:0.25} \s{backspace:1.25}
       symbols-1: |
         1 2 3 4 5 6 7 8 9 0
         - / : ; ( ) kr & @ "
@@ -110,14 +110,14 @@ macOS:
     layers:
       default: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
-          \u{05D0} \u{05E9} \u{05F2} \u{05E8} \u{05D8} \u{FB1F} \u{05F1} \u{05D9} \u{05D5} \u{FB44} \u{FB2F} ¨
-          \u{FB2E} \u{05E1} \u{05D3} \u{FB4E} \u{05D2} \u{05D4} \u{05D9} \u{05E7} \u{05DC} \u{05EA} \u{05E2} '
-        < \u{05D6} \u{05DB} \u{05E6} \u{05F0} \u{05D1} \u{05E0} \u{05DE} , . -
+          א ש ײ ר ט ײַ ױ י ו פּ אָ ¨
+          אַ ס ד פֿ ג ה י ק ל ת ע '
+        < ז כ צ װ ב נ מ , . -
       shift: |
         ° ! " # € % & / ( ) = ? `
-          \u{05BC} \u{FB2A} \u{05B5} R \u{FB4A} Y \u{FB4B} \u{FB1D} \u{FB35} \u{05E4} \u{05B8} ^
-        \u{05B7} \u{FB2B} \u{05BC} \u{05E3} G \u{05D7} J \u{FB3B} L \u{05B0} \u{05B6} *
-        > Z \u{05DA} \u{05E5} \u{FB4C} \u{FB31} \u{05DF} \u{05DD} ; : \u{05BE}
+          ּ שׁ ֵ R תּ Y וֹ יִ וּ פ ָ ^
+        ַ שׂ ּ ף G ח J כּ L ְ ֶ *
+        > Z ך ץ בֿ בּ ן ם ; : ־
       caps: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
           Q W E R T Y U I O P Å ^
@@ -125,9 +125,9 @@ macOS:
         < Z X C V B N M , . -
       alt: |
         \u{0} \u{0} @ £ $ € \u{0} { [ ] } \ ¨
-        q â € \u{0} ŧ \u{0} \u{05B9} \u{05B4} \u{05BB} \u{0} \u{05B3} ~
-        á š đ ǥ ǧ ȟ \u{0} ǩ \u{0} ö \u{05B1} \u{0}
-        | ž \u{0} č \u{05BF} ʒ ŋ µ \u{0} \u{0} \u{0}
+        q â € \u{0} ŧ \u{0} ֹ ִ ֻ \u{0} ֳ ~
+        á š đ ǥ ǧ ȟ \u{0} ǩ \u{0} ö ֱ \u{0}
+        | ž \u{0} č ֿ ʒ ŋ µ \u{0} \u{0} \u{0}
       alt+shift: |
         • ¡ ” ¥ ¢ ‰ ¶ \ { } ≠ ¿ ^
           ° ˝ É √ Ŧ ˜ Ü ˆ Œ ∏ Å ^
@@ -183,15 +183,15 @@ windows:
   primary:
     layers:
       default: |
-        \u{05BE} 1 2 3 4 5 6 7 8 9 0 + ´
-        \u{05D0} \u{05E9} \u{05F2} \u{05E8} \u{05D8} \u{FB1F} \u{05F1} \u{05D9} \u{05D5} \u{FB44} \u{FB2F} ¨
-        \u{FB2E} \u{05E1} \u{05D3} \u{FB4E} \u{05D2} \u{05D4} \u{05D9} \u{05E7} \u{05DC} \u{05EA} \u{05E2} '
-        < \u{05D6} \u{05DB} \u{05E6} \u{05F0} \u{05D1} \u{05E0} \u{05DE} , . -
+        ־ 1 2 3 4 5 6 7 8 9 0 + ´
+        א ש ײ ר ט ײַ ױ י ו פּ אָ ¨
+        אַ ס ד פֿ ג ה י ק ל ת ע '
+        < ז כ צ װ ב נ מ , . -
       shift: |
-        ½ ! " # ¤ % & / ( ) = ? \u{05F4}
-        \u{05BC} \u{FB2A} \u{05B5} R \u{FB4A} Y \u{FB4B} \u{FB1D} \u{FB35} \u{05E4} \u{05B8} ^
-        \u{05B7} \u{FB2B} \u{05BC} \u{05E3} G \u{05D7} J \u{FB3B} L \u{05B0} \u{05B6} *
-        > Z \u{05DA} \u{05E5} \u{FB4C} \u{FB31} \u{05DF} \u{05DD} ; : \u{05BE}
+        ½ ! " # ¤ % & / ( ) = ? ״
+        ּ שׁ ֵ R תּ Y וֹ יִ וּ פ ָ ^
+        ַ שׂ ּ ף G ח J כּ L ְ ֶ *
+        > Z ך ץ בֿ בּ ן ם ; : ־
       caps: |
         § 1 2 3 4 5 6 7 8 9 0 + ´
         Q W E R T Y U I O P Å ^
@@ -204,9 +204,9 @@ windows:
         > z x c v b n m ; : _
       alt: |
         \u{0} \u{0} @ £ $ € \u{0} { [ ] } \ ¨
-        q â € \u{0} ŧ \u{0} \u{05B9} \u{05B4} \u{05BB} \u{0} \u{05B3} ~
-        á š đ ǥ ǧ ȟ \u{0} ǩ \u{0} ö \u{05B1} \u{0}
-        | ž \u{0} č \u{05BF} ʒ ŋ µ \u{0} \u{0} \u{0}
+        q â € \u{0} ŧ \u{0} ֹ ִ ֻ \u{0} ֳ ~
+        á š đ ǥ ǧ ȟ \u{0} ǩ \u{0} ö ֱ \u{0}
+        | ž \u{0} č ֿ ʒ ŋ µ \u{0} \u{0} \u{0}
       alt+shift: |
         \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} ^
         Q Â \u{0} \u{0} Ŧ \u{0} \u{0} Ï Õ \u{0} Å \u{0}
